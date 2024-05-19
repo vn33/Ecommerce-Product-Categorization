@@ -59,6 +59,6 @@ This project aims to categorize ecommerce products based on their descriptions. 
 - `Datasets`: Contains the dataset used for training and testing.
 - `product-categorization`: Jupyter notebooks containing EDA, model training, and evaluation.
 - `main`: Source code for text normalization, vectorization, model training, and the Streamlit web application.
-- 'EDA and Evaluation.ppt`: Project report ppt on EDA and Evaluation results.
+- `EDA and Evaluation.ppt`: Project report ppt on EDA and Evaluation results.
 
 
